@@ -1,6 +1,6 @@
 {
-"companyName": "DefaultCompany",
-"productName": "demo1",
+"companyName": "lArkl",
+"productName": "Platformer-demo",
 "dataUrl": "demo1.data.unityweb",
 "wasmCodeUrl": "demo1.wasm.code.unityweb",
 "wasmFrameworkUrl": "demo1.wasm.framework.unityweb",
